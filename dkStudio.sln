@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dkStudio", "dkStudio\dkStudio.csproj", "{22B6A6AE-6D5D-4740-8DD6-7917E8122BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsUI", "WinFormsUI\WinFormsUI.csproj", "{C75532C4-765B-418E-B09B-46D36B2ABDB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{F6962B7F-F178-49AB-92EF-D72687672FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeVS2015", "WinFormsUI\ThemeVS2015.csproj", "{007D4AC8-948F-4816-86AD-B9D1343672C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B6A6AE-6D5D-4740-8DD6-7917E8122BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B6A6AE-6D5D-4740-8DD6-7917E8122BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B6A6AE-6D5D-4740-8DD6-7917E8122BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B6A6AE-6D5D-4740-8DD6-7917E8122BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007D4AC8-948F-4816-86AD-B9D1343672C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007D4AC8-948F-4816-86AD-B9D1343672C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007D4AC8-948F-4816-86AD-B9D1343672C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007D4AC8-948F-4816-86AD-B9D1343672C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{007D4AC8-948F-4816-86AD-B9D1343672C1} = {F6962B7F-F178-49AB-92EF-D72687672FC2}
+	EndGlobalSection
+EndGlobal
